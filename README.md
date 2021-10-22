@@ -1,2 +1,3 @@
 # Cup-Thief-Game
-警匪遊戲 (IOT) 使用 Arduino做感應器 Python做猜拳手勢預測
+參加三創課程，與藝設系合作，製作使用數據分析和物聯網製作為視障者遊玩的猜拳遊戲
+使用技術: Arduino(感應器，判斷手勢) Python(使用data，做猜拳手勢預測)
